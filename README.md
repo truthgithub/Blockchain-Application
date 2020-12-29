@@ -1,4 +1,4 @@
-​                                                                        ![juspt](https://i.loli.net/2020/12/29/sv6WRKPSfy1IBuY.jpg)
+                                                                        ![juspt](https://i.loli.net/2020/12/29/sv6WRKPSfy1IBuY.jpg)
 
 # 基于区块链的高校学生成绩管理系统
 
